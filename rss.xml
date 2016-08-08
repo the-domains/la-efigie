@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Pulsión In(h)er(en)te]]></title>
         <description><![CDATA[Pulsión In(h)er(en)te]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/la-efigie/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 08 Aug 2016 04:48:03 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 08 Aug 2016 04:51:11 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/la-efigie/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ce0e74fb-e892-44a7-b456-b0b83e7a279c.jpg">]]></description>
+            <link>https://thegrid.ai/la-efigie/11e0cc11-fe67-4049-9d85-761e20723092/index.html</link>
+            <guid isPermaLink="false">11e0cc11-fe67-4049-9d85-761e20723092</guid>
+            <pubDate>Mon, 08 Aug 2016 04:50:18 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e2f5642e-fb0d-421d-8eaf-dd29468bfdce.jpg">]]></description>
-            <link>undefined6d7d51dd-dd86-4612-87f4-864585aa5487/index.html</link>
+            <link>https://thegrid.ai/la-efigie/6d7d51dd-dd86-4612-87f4-864585aa5487/index.html</link>
             <guid isPermaLink="false">6d7d51dd-dd86-4612-87f4-864585aa5487</guid>
             <pubDate>Mon, 08 Aug 2016 04:47:42 GMT</pubDate>
         </item>
