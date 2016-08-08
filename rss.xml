@@ -4,8 +4,15 @@
         <description><![CDATA[Pulsión In(h)er(en)te]]></description>
         <link>https://thegrid.ai/la-efigie/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 08 Aug 2016 05:03:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Aug 2016 05:03:33 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/la-efigie/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e2f5642e-fb0d-421d-8eaf-dd29468bfdce.jpg" alt="Edvard Munch - Madonna">]]></description>
+            <link>https://thegrid.ai/la-efigie/6d7d51dd-dd86-4612-87f4-864585aa5487/index.html</link>
+            <guid isPermaLink="false">6d7d51dd-dd86-4612-87f4-864585aa5487</guid>
+            <pubDate>Mon, 08 Aug 2016 05:03:30 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ce0e74fb-e892-44a7-b456-b0b83e7a279c.jpg" alt="Modigliani - The Jewish Woman">]]></description>
@@ -26,13 +33,6 @@
             <link>https://www.youtube.com/watch?v=QQPSMRQnNlU</link>
             <guid isPermaLink="false">5317c151-7236-4b58-989f-e073afdc4d72</guid>
             <pubDate>Mon, 08 Aug 2016 04:52:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e2f5642e-fb0d-421d-8eaf-dd29468bfdce.jpg">]]></description>
-            <link>https://thegrid.ai/la-efigie/6d7d51dd-dd86-4612-87f4-864585aa5487/index.html</link>
-            <guid isPermaLink="false">6d7d51dd-dd86-4612-87f4-864585aa5487</guid>
-            <pubDate>Mon, 08 Aug 2016 04:47:42 GMT</pubDate>
         </item>
     </channel>
 </rss>
