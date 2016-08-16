@@ -1,16 +1,16 @@
-typography_spectrum: 0.6846960014663637
+typography_spectrum: 0.3741763229481876
 color:
-  brandStrength: 0.07471803366206586
-  lightness: 0.1561551201157272
-  saturation: 0.282247721683234
-  rhythmicContrast: 0.8630053461529315
+  brandStrength: 0.6116504343226552
+  lightness: 0.1264673110563308
+  saturation: 0.32941986131481826
+  rhythmicContrast: 0.23829013016074896
   brandColors:
-    - '#150B0A'
-    - '#312726'
-    - '#858A90'
-    - '#55523F'
-    - '#C1CEC7'
-layout_spectrum: 0.2582823031116277
+    - '#E7E8D1'
+    - '#D3CEAA'
+    - '#FBF7E4'
+    - '#424242'
+    - '#8E001C'
+layout_spectrum: 0.7920891577377915
 name: La Efigie
 title: ''
 description: ''
