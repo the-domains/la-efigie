@@ -1,4 +1,3 @@
-layout_spectrum: 0.2582823031116277
 typography_spectrum: 0.6846960014663637
 color:
   brandStrength: 0.07471803366206586
@@ -11,5 +10,7 @@ color:
     - '#858A90'
     - '#55523F'
     - '#C1CEC7'
+layout_spectrum: 0.2582823031116277
 name: La Efigie
 title: Pulsión In(h)er(en)te
+description: Pulsión In(h)er(en)te
